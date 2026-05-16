@@ -1,4 +1,3 @@
-[2026-04-29 10:19] Solana Market: $85.43 USD
 [2026-04-29 17:56] Solana Market: $82.98 USD
 [2026-04-30 04:16] Solana Market: $82.8 USD
 [2026-04-30 10:34] Solana Market: $82.94 USD
@@ -48,3 +47,4 @@
 [2026-05-15 04:17] Solana Market: $91.94 USD
 [2026-05-15 10:41] Solana Market: $91.07 USD
 [2026-05-15 17:59] Solana Market: $89.72 USD
+[2026-05-16 04:12] Solana Market: $88.98 USD
